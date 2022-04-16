@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Little Learners (K-5)",
+        "price": "2000",
+        "description": "I teach children five days a week, creating a comfortable and exciting environment for your little ones to explore the amazing new world of learning while having fun in the process. From kindergarten to grade 5, math, English science, vocabulary, spelling, grammar and writing, reading and much more are taught.",
+        "img": "https://www.vu.edu.au/sites/default/files/styles/featured_link_768x430/public/images/news-action-needed-to-deliver-the-melbourne-declaration-mitchell-institute.jpg?itok=Oq4hG3b1"
+    },
+    {
+        "id": 2,
+        "name": "Middle school (6-8)",
+        "price": "3500",
+        "description": "I focus on the award-winning customizable middle school program student's quick pivot knowledge and his strengths in pop quizzes, standardized exams, and midterm / finals. In addition to studying, I help in acquiring knowledge on external issues and participating in various competitions. This increases the need for all students to practice knowledge in different subjects. I teach them four days a week.",
+        "img": "https://3.files.edl.io/d19a/18/10/30/173337-b25d427f-80e7-48f8-b4db-3fbe6ed2fb47.jpg"
+    },
+    {
+        "id": 3,
+        "name": "High school (9-12)",
+        "price": "5000",
+        "description": "I keep a close eye on the students. I teach three days a week. In addition, two tests are taken weekly. Students in nine to twelve classes have to sit for two board exams. From the week-to-week homework assignments at the end of the year I make sure my students are always on top of the work pressure and get to the top of the class and get a good place on the board.",
+        "img": "https://ced.ncsu.edu/nc-teach/wp-content/uploads/sites/7/2015/07/NC_Teach_Math.jpg"
+    }
+]
